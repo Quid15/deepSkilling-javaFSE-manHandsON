@@ -13,7 +13,6 @@ public class Product implements InventoryManager.Identifiable{
         this.price = price;
     }
     
-    @Override
     public String getProductId() {
         return productId;
     }

@@ -1,4 +1,6 @@
-public class Main {
+package code;
+
+public class InventoryAdder {
     public static void main(String[] args) {
         InventoryManager<Product> myInventory = new InventoryManager<>();
 
