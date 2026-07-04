@@ -1,3 +1,5 @@
+package code;
+
 import java.util.HashMap;
 
 public class InventoryManager<P extends InventoryManager.Identifiable>{
