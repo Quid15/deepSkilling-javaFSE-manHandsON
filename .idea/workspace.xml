@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a53db7-fce6-4050-90c4-102b5906816d" name="Changes" comment="" />
+    <list default="true" id="66a53db7-fce6-4050-90c4-102b5906816d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,23 +18,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0006790724911272" />
-      <entry key="S2" value="1.2678761186408074" />
-      <entry key="S5" value="1.893948377702006" />
-      <entry key="S10" value="2.336876231263057" />
-      <entry key="S30" value="2.748643795272494" />
-      <entry key="S60" value="2.8743394349121822" />
-      <entry key="M2" value="3.089236160336855" />
-      <entry key="M5" value="4.835365738372797" />
-      <entry key="M10" value="7.468149690010389" />
-      <entry key="M15" value="9.024246100407948" />
-      <entry key="M30" value="11.134215680968357" />
-      <entry key="H1" value="12.457375735436333" />
-      <entry key="H2" value="13.19907507391629" />
-      <entry key="H4" value="13.591842719074087" />
-      <entry key="D1" value="13.930879363791236" />
-      <entry key="W1" value="13.990098479542466" />
+      <entry key="MS100" value="1.0224055507502472" />
+      <entry key="MS500" value="1.467811749467348" />
+      <entry key="S2" value="1.836193864498688" />
+      <entry key="S5" value="2.3047099987916617" />
+      <entry key="S10" value="3.4108992175422777" />
+      <entry key="S30" value="5.687734500235482" />
+      <entry key="S60" value="6.703110351530739" />
+      <entry key="M2" value="7.446573468362156" />
+      <entry key="M5" value="9.487114671564042" />
+      <entry key="M10" value="12.229060942017117" />
+      <entry key="M15" value="13.839323364944157" />
+      <entry key="M30" value="16.024434986821078" />
+      <entry key="H1" value="17.397049560548844" />
+      <entry key="H2" value="18.16738745642341" />
+      <entry key="H4" value="18.575595104868896" />
+      <entry key="D1" value="18.928113320356893" />
+      <entry key="W1" value="18.989701880351568" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -53,60 +56,61 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.405135904175979E-4" />
-      <entry key="MS500" value="0.20300884144495468" />
-      <entry key="S2" value="0.9033739601687971" />
-      <entry key="S5" value="1.69145055519202" />
-      <entry key="S10" value="2.216938646460717" />
-      <entry key="S30" value="2.702895138906928" />
-      <entry key="S60" value="2.8505978151735945" />
-      <entry key="M2" value="3.0766959140476584" />
-      <entry key="M5" value="4.8277966020793315" />
-      <entry key="M10" value="7.462322726518499" />
-      <entry key="M15" value="9.019542383306515" />
-      <entry key="M30" value="11.131303820104264" />
-      <entry key="H1" value="12.455743215965734" />
-      <entry key="H2" value="13.198209185622504" />
-      <entry key="H4" value="13.591396616982816" />
-      <entry key="D1" value="13.930803118928953" />
-      <entry key="W1" value="13.99008754012602" />
+      <entry key="MS100" value="0.8122695633863364" />
+      <entry key="MS500" value="1.0706779318299426" />
+      <entry key="S2" value="1.5756670652469194" />
+      <entry key="S5" value="2.150232778940324" />
+      <entry key="S10" value="3.28372591521374" />
+      <entry key="S30" value="5.610101588803355" />
+      <entry key="S60" value="6.656316051667265" />
+      <entry key="M2" value="7.420370740013266" />
+      <entry key="M5" value="9.473600569326257" />
+      <entry key="M10" value="12.22017565880589" />
+      <entry key="M15" value="13.832552707714521" />
+      <entry key="M30" value="16.020470140644964" />
+      <entry key="H1" value="17.394884096512637" />
+      <entry key="H2" value="18.16625322215267" />
+      <entry key="H4" value="18.575014323891864" />
+      <entry key="D1" value="18.928014555317525" />
+      <entry key="W1" value="18.98968772191561" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3G1u5cdlUO8X9s8QEUMWx3QNN4V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "engineering-concepts",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/blazed/repos/deepSkilling-javaFSE-manHandsON",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Runtime.Targets.Configurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;engineering-concepts&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/blazed/repos/deepSkilling-javaFSE-manHandsON&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Runtime.Targets.Configurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -123,6 +127,8 @@
       <option name="presentableId" value="Default" />
       <updated>1783151214326</updated>
       <workItem from="1783151216323" duration="1840000" />
+      <workItem from="1783500938859" duration="44000" />
+      <workItem from="1783963295753" duration="343000" />
     </task>
     <servers />
   </component>
