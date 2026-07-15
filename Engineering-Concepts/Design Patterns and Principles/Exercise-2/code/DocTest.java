@@ -9,7 +9,6 @@ public class DocTest {
         
         System.out.println("\n--- Testing PDF Factory ---");
         DocumentFactory pdfFactory = new PdfDocumentFactory();
-        // Using the business logic method defined in the abstract factory
         pdfFactory.processNewDocument();
         
         System.out.println("\n--- Testing Excel Factory ---");
