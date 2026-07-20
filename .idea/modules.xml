@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deepSkilling-javaFSE-manHandsON.iml" filepath="$PROJECT_DIR$/.idea/deepSkilling-javaFSE-manHandsON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deepSkilling-javaFSE-manHandsON.iml" filepath="$PROJECT_DIR$/deepSkilling-javaFSE-manHandsON.iml" />
     </modules>
   </component>
 </project>

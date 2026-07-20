@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66a53db7-fce6-4050-90c4-102b5906816d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deepSkilling-javaFSE-manHandsON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deepSkilling-javaFSE-manHandsON.iml" afterDir="false" />
+    <list default="true" id="3b49e982-f6cf-4fc0-b29b-d55a47610b54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/deepSkilling-javaFSE-manHandsON.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deepSkilling-javaFSE-manHandsON.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Engineering-Concepts/Design Patterns and Principles/Exercise-2/code/DocTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Engineering-Concepts/Design Patterns and Principles/Exercise-2/code/DocTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,23 +21,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0224055507502472" />
-      <entry key="MS500" value="1.467811749467348" />
-      <entry key="S2" value="1.836193864498688" />
-      <entry key="S5" value="2.3047099987916617" />
-      <entry key="S10" value="3.4108992175422777" />
-      <entry key="S30" value="5.687734500235482" />
-      <entry key="S60" value="6.703110351530739" />
-      <entry key="M2" value="7.446573468362156" />
-      <entry key="M5" value="9.487114671564042" />
-      <entry key="M10" value="12.229060942017117" />
-      <entry key="M15" value="13.839323364944157" />
-      <entry key="M30" value="16.024434986821078" />
-      <entry key="H1" value="17.397049560548844" />
-      <entry key="H2" value="18.16738745642341" />
-      <entry key="H4" value="18.575595104868896" />
-      <entry key="D1" value="18.928113320356893" />
-      <entry key="W1" value="18.989701880351568" />
+      <entry key="MS100" value="1.0002293756711949" />
+      <entry key="MS500" value="1.1871153733490865" />
+      <entry key="S2" value="1.657699281809319" />
+      <entry key="S5" value="1.845689516712438" />
+      <entry key="S10" value="1.9196137867128995" />
+      <entry key="S30" value="1.972452710529666" />
+      <entry key="S60" value="1.986130169161083" />
+      <entry key="M2" value="1.9930408698342092" />
+      <entry key="M5" value="1.997210514726766" />
+      <entry key="M10" value="1.9986042833509008" />
+      <entry key="M15" value="1.9990693056523399" />
+      <entry key="M30" value="1.9995345445017596" />
+      <entry key="H1" value="1.9997672451634727" />
+      <entry key="H2" value="1.9998836158090965" />
+      <entry key="H4" value="1.9999418062112897" />
+      <entry key="D1" value="1.9999903008000317" />
+      <entry key="W1" value="1.9999986143942448" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -58,58 +59,50 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8122695633863364" />
-      <entry key="MS500" value="1.0706779318299426" />
-      <entry key="S2" value="1.5756670652469194" />
-      <entry key="S5" value="2.150232778940324" />
-      <entry key="S10" value="3.28372591521374" />
-      <entry key="S30" value="5.610101588803355" />
-      <entry key="S60" value="6.656316051667265" />
-      <entry key="M2" value="7.420370740013266" />
-      <entry key="M5" value="9.473600569326257" />
-      <entry key="M10" value="12.22017565880589" />
-      <entry key="M15" value="13.832552707714521" />
-      <entry key="M30" value="16.020470140644964" />
-      <entry key="H1" value="17.394884096512637" />
-      <entry key="H2" value="18.16625322215267" />
-      <entry key="H4" value="18.575014323891864" />
-      <entry key="D1" value="18.928014555317525" />
-      <entry key="W1" value="18.98968772191561" />
+      <entry key="MS100" value="7.901411363540685E-4" />
+      <entry key="MS500" value="0.3689325066964557" />
+      <entry key="S2" value="1.3003415395584763" />
+      <entry key="S5" value="1.6825191979935012" />
+      <entry key="S10" value="1.834206103059558" />
+      <entry key="S30" value="1.9430871920824735" />
+      <entry key="S60" value="1.9713323094774473" />
+      <entry key="M2" value="1.985612929741802" />
+      <entry key="M5" value="1.9942323459048032" />
+      <entry key="M10" value="1.9971140309391402" />
+      <entry key="M15" value="1.9980755443005322" />
+      <entry key="M30" value="1.9990375339067799" />
+      <entry key="H1" value="1.9995187073773808" />
+      <entry key="H2" value="1.9997593387927957" />
+      <entry key="H4" value="1.9998796656721876" />
+      <entry key="D1" value="1.9999799437614263" />
+      <entry key="W1" value="1.9999971348103927" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3G1u5cdlUO8X9s8QEUMWx3QNN4V" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3Gilpdxv4LkYZuUsmYtgH6rTtct" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.DocTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "engineering-concepts",
+    "git-widget-placeholder": "pl-sql",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/blazed/repos/deepSkilling-javaFSE-manHandsON",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Runtime.Targets.Configurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -124,15 +117,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66a53db7-fce6-4050-90c4-102b5906816d" name="Changes" comment="" />
-      <created>1783151214326</created>
+      <changelist id="3b49e982-f6cf-4fc0-b29b-d55a47610b54" name="Changes" comment="" />
+      <created>1784462456663</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1783151214326</updated>
-      <workItem from="1783151216323" duration="1840000" />
-      <workItem from="1783500938859" duration="44000" />
-      <workItem from="1783963295753" duration="343000" />
-      <workItem from="1784105684028" duration="1969000" />
+      <updated>1784462456663</updated>
+      <workItem from="1784462456663" duration="2365000" />
     </task>
     <servers />
   </component>
